@@ -1,0 +1,8 @@
+Public links of dashboard and story
+
+
+Dashboard link
+https://public.tableau.com/views/ToyCraft_Tales--_twbxfile/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Story link:
+https://public.tableau.com/views/ToyCraft_Tales--_twbxfile/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
